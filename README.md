@@ -21,4 +21,6 @@ Make sure you have Python 3.8+ installed.
 Install required packages:
 
 ```bash
-pip install selenium webdriver-manager selenium-stealth
+pip install selenium webdriver-manager selenium-stealth 
+
+-- need os too
